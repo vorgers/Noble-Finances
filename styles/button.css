@@ -1,0 +1,144 @@
+.nav-btn {
+    padding: 12px;
+    background: #2E4F21;
+    border-radius: 51.57px;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-btn:hover {
+    background: #3d692b;
+}
+
+.hero-btn {
+    padding: 12px;
+    background: #2E4F21;
+    border-radius: 51.57px;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    color: #fff;
+    text-decoration: none;
+    max-width: 162px;
+}
+
+.hero-btn:hover {
+    background: #3d692b;
+}
+
+.intro-btn {
+    padding: 12px;
+    background: #2E4F21;
+    border-radius: 51.57px;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    color: #fff;
+    text-decoration: none;
+}
+
+.intro-btn:hover {
+    background: #3d692b;
+}
+
+.cta-btn {
+    padding: 12px;
+    background: #fff;
+    border-radius: 51.57px;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    color: #2E4F21;
+    text-decoration: none;
+    max-width: 86px;
+}
+
+.cta-btn:hover {
+    background: #e4e4e4;
+}
+
+.experts-btn {
+    padding: 24px 30px;
+    background: #2E4F21;
+    border-radius: 88px;
+    font-family: "DMSans";
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: -2%;
+    color: #fff;
+    text-decoration: none;
+}
+
+.experts-btn:hover {
+    background: #3d692b;
+}
+
+.footer-btn {
+    padding: 12px;
+    background: #fff;
+    border-radius: 51.57px;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    color: #2E4F21;
+    text-decoration: none;
+}
+
+.footer-btn:hover {
+    background: #e4e4e4;
+}
+
+.navigation__main-btn {
+    padding: 12px;
+    background: #2E4F21;
+    border-radius: 51.57px;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    color: #fff;
+    text-decoration: none;
+    max-width: 162px;
+}
+
+.navigation__main-btn:hover {
+    background: #3d692b;
+}
+
+.connect-btn {
+    padding: 24px 30px;
+    background: #2E4F21;
+    border-radius: 88px;
+    font-family: "DMSans";
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: -2%;
+    color: #fff;
+    text-decoration: none;
+    max-width: 233px;
+}
+
+.connect-btn:hover {
+    background: #3d692b;
+}
+
+.book-btn {
+    padding: 12px;
+    background: #2E4F21;
+    border-radius: 51.57px;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    color: #fff;
+    text-decoration: none;
+    max-width: 85px;
+}

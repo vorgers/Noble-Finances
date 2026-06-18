@@ -1,0 +1,413 @@
+@font-face {
+    font-family: "WorkSansMedium";
+    src: url(../fonts/WorkSans-Medium.ttf);
+}
+
+@font-face {
+    font-family: "WorkSansRegular";
+    src: url(../fonts/WorkSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: "WorkSansExtraLight";
+    src: url(../fonts/WorkSans-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: "DMSans";
+    src: url(../fonts/DMSans-Medium.ttf);
+}
+
+.nav-link {
+    color: #2E4F21;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    color: #42742e;
+}
+
+.hero_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 80px;
+    line-height: 100%;
+    letter-spacing: -8%;
+}
+
+.hero_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.intro_title {
+    color: #2E4F21;
+    font-family: "DMSans";
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: -2%;
+}
+
+.intro_bigtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 60px;
+    line-height: 105%;
+    letter-spacing: -7%;
+    text-align: center;
+}
+
+.intro_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.preview_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 40px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+}
+
+.preview_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.label_text {
+    color: #506349;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    background: #fff;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.testimonials_heading {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 60px;
+    line-height: 105%;
+    letter-spacing: -7%;
+}
+
+.testimonials__job_green {
+    color: #fff;
+    font-family: "WorkSansRegular";
+    font-size: 18px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials__location_green {
+    color: #D5E4D0;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials__job_white {
+    color: #506349;
+    font-family: "WorkSansRegular";
+    font-size: 18px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials__location_white {
+    color: #506349;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 30px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials__mobile_job_white {
+    color: #2E4F21;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials__mobile_location_white {
+    color: #7D9276;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials__mobile_job_green {
+    color: #fff;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials__mobile_location_green {
+    color: #7D9276;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials__mobile_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 18px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.testimonials__mobile_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.benefits_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 60px;
+    line-height: 105%;
+    letter-spacing: -7%;
+}
+
+.benefits_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    width: 575px;
+}
+
+.benefits__card_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 30px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+}
+
+.benefits__card_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.benefits__card_text {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.cta_title {
+    color: #fff;
+    font-family: "WorkSansRegular";
+    font-size: 40px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+}
+
+.cta_subtitle {
+    color: #fff;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.experts_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 60px;
+    line-height: 105%;
+    letter-spacing: -7%;
+    text-align: center;
+}
+
+.footer_text {
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.footer-link {
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+    color: #D5E4D0;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #d9dad9;
+}
+
+.navigation__main_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 80px;
+    line-height: 100%;
+    letter-spacing: -8%;
+}
+
+.navigation__main_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.guide_title {
+    color: #2E4F21;
+    font-family: "DMSans";
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: -2%;
+}
+
+.guide_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 60px;
+    line-height: 105%;
+    letter-spacing: -7%;
+}
+
+.guide_text {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.guide__card_number {
+    color: #506349;
+    font-family: "WorkSansExtraLight";
+    font-size: 192.93px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+    width: 225px;
+}
+
+.guide__card_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 40px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+}
+
+.guide__card_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.philosophy_title {
+    color: #2E4F21;
+    font-family: "WorkSansMedium";
+    font-size: 12px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}
+
+.philosophy_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 60px;
+    line-height: 105%;
+    letter-spacing: -7%;
+}
+
+.philosophy__card_number {
+    color: #2E4F21;
+    font-family: "DMSans";
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: -2%;
+}
+
+.philosophy__card_text {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 30px;
+    line-height: 105%;
+    letter-spacing: -4.5%;
+    text-align: center;
+}
+
+.connect_text {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 60px;
+    line-height: 105%;
+    letter-spacing: -7%;
+    text-align: center;
+}
+
+.book_title {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 60px;
+    line-height: 105%;
+    letter-spacing: -7%;
+}
+
+.book_subtitle {
+    color: #2E4F21;
+    font-family: "WorkSansRegular";
+    font-size: 16px;
+    line-height: 110%;
+    letter-spacing: -4.5%;
+}

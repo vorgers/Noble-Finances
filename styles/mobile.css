@@ -1,0 +1,391 @@
+@media (min-width: 1px) and (max-width: 799px) {
+    .navigation {
+        max-width: 375px;
+        padding: 16px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .nav {
+        gap: 16px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .nav__desktop {
+        display: none;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .nav__mobile {
+        display: inline;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .hero {
+        max-width: 375px;
+        padding: 40px 16px;
+        flex-direction: column-reverse;
+        gap: 40px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .hero__content {
+        gap: 40px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .hero__text {
+        gap: 16px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .hero_title {
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .intro {
+        max-width: 375px;
+        padding: 120px 16px 100px 16px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .intro_bigtitle {
+        font-size: 32px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .intro_subtitle {
+        text-align: center;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .preview__card_content_text {
+        gap: 24px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .preview_title {
+        font-size: 28px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .preview-1 {
+        max-width: 375px;
+        padding: 0 16px 16px 16px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .preview-1__card {
+        padding: 40px 16px;
+        flex-direction: column;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .preview-2 {
+        max-width: 375px;
+        padding: 0 16px 16px 16px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .preview-2__card {
+        padding: 40px 16px;
+        flex-direction: column;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .preview-3 {
+        max-width: 375px;
+        padding: 0 16px 16px 16px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .preview-3__card {
+        padding: 40px 16px;
+        flex-direction: column;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .testimonials {
+        max-width: 375px;
+        padding: 36px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .testimonials__desktop {
+        display: none;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .testimonials__mobile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .picture {
+        max-width: 375px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .benefits {
+        max-width: 375px;
+        padding: 80px 16px;
+        gap: 80px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .benefits__header {
+        flex-direction: column;
+        gap: 32px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .benefits_title {
+        font-size: 32px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .benefits_subtitle {
+        width: 100%;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .benefits__cards {
+        flex-direction: column;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .benefits__card {
+        padding: 20px 0;
+        border-left: none;
+        border-top: 1px solid #2E4F21;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .benefits__card_title {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .cta {
+        max-width: 375px;
+        padding: 50px 40px;
+        flex-direction: column-reverse;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .cta_title {
+        font-size: 28px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .experts {
+        max-width: 375px;
+        padding: 160px 24px;
+
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .experts_title {
+        font-size: 32px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .footer {
+        max-width: 375px;
+        padding: 32px 24px;
+        flex-direction: column;
+        gap: 80px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .footer__column-1 {
+        display: none;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .footer__column-2 {
+        display: none;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .footer__mobile_column-1 {
+        display: flex;
+        flex-direction: column;
+        gap: 80px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .footer__mobile_column-2 {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+}
+
+/* Services */
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .navigation__main {
+        max-width: 375px;
+        padding: 68px 40px;
+        flex-direction: column-reverse;
+        gap: 24px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .navigation__main_title {
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .guide {
+        max-width: 375px;
+        padding: 120px 24px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .guide__card {
+        flex-direction: column;
+        gap: 40px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .guide__card__content {
+        padding: 24px;
+        flex-direction: column;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .guide_subtitle {
+        font-size: 32px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .guide__card_title {
+        font-size: 28px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .philosophy {
+        max-width: 375px;
+        padding: 80px 24px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .philosophy__card {
+        width: 327px;
+        padding: 60px 24px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .philosophy_subtitle {
+        font-size: 32px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .philosophy__card_text {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .connect {
+        max-width: 375px;
+        padding: 80px 24px;
+        flex-direction: column-reverse;
+        gap: 20px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .connect__content {
+        padding: 60px 24px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .connect_text {
+        font-size: 32px;
+    }
+}
+
+/* Book */
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .book__navigation {
+        max-width: 375px;
+        padding: 16px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .book__hero {
+        max-width: 375px;
+        padding: 80px 16px;
+        flex-direction: column;
+        gap: 40px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .book__content {
+        gap: 28.04px;
+    }
+}
+
+@media (min-width: 1px) and (max-width: 799px) {
+    .book_title {
+        font-size: 32px;
+    }
+}
